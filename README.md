@@ -37,5 +37,4 @@ pip install -r requirements.txt
 ```sh
 python app.py
 ```
-### 4️⃣ Open in Browser
-Go to http://localhost:5000 to play the game!
+
