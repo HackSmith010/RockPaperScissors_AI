@@ -28,12 +28,7 @@ git clone https://github.com/HackSmith010/RockPaperScissors_AI.git
 cd RockPaperScissors_AI
 ```
 
-### 2️⃣ Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Application
+### 2️⃣ Run the Application
 ```sh
 python app.py
 ```
